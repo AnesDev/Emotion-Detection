@@ -4,4 +4,4 @@ The system works in two steps: first, it detects faces using OpenCV, identifying
 
 For a smooth, engaging experience, the demo overlays an emoji and emotion label on each face instantly, updating as expressions change. It also includes smart smoothing to make predictions more stable and accurate.
 
-Built with Python, OpenCV, TensorFlow, and Pillow, the demo is ready to run—no coding needed. Launch it, and see AI interpret emotions in real time.
+Built with Python, OpenCV, TensorFlow, and Pillow, the demo is ready to run,no coding needed. Launch it, and see AI interpret emotions in real time.
